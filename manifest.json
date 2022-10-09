@@ -1,0 +1,17 @@
+{
+    "name": "Ejemplo",
+    "short_name": "Suma de numeros",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./sum.icono.jpg",
+            "type": "image/jpg",
+            "sizes": "512x512"
+        }
+    ]
+}
